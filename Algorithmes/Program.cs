@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Algorithmes.WeekOfCode35._2017;
+using System;
 
 namespace Algorithmes
 {
@@ -6,7 +7,7 @@ namespace Algorithmes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            LuckyPurchase.Main();
         }
     }
 }
